@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NSE F&amp;O Bot</string>
+    <string name="title_bot">Bot</string>
+    <string name="title_stocks">F&amp;O Stocks</string>
+</resources>

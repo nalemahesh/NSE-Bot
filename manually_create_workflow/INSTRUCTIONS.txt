@@ -1,0 +1,10 @@
+If you cannot see the .github folder:
+
+1. Upload all the OTHER files from this zip to GitHub first
+2. Then on GitHub, do this to create the workflow manually:
+   a. Click "Add file" → "Create new file"
+   b. In the filename box type exactly:  .github/workflows/build.yml
+   c. Copy and paste the contents of "build.yml" (in this folder) into the editor
+   d. Click "Commit new file"
+
+That's it! The build will start automatically.
